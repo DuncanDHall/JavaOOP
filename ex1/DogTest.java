@@ -1,3 +1,5 @@
+// Duncan Hall
+
 class Pet {
     int size;
     String breed;
